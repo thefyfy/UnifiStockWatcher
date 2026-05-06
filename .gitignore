@@ -1,0 +1,17 @@
+# Generated at runtime
+watched_items.json
+settings.json
+stock_history.json
+stock_state.json
+watcher.log
+
+# Virtual environment
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
